@@ -6,7 +6,6 @@
 * [Project Description](#-project-description)
 * [Project Datasets](#-project-datasets)
 * [Database Schema](#-database-schema)
-* [Prerequisites](#-prerequisites)
 * [Project Files](#-project-files)
 * [Project Steps](#-project-steps)
 * [Tools and Technologies](#-tools-and-technologies) 
@@ -67,15 +66,6 @@ After examining the Log and Song JSON files, I created a Star schema (shown belo
 
 ---
 
-## 🚧 Prerequisites
-
-This project makes the folowing assumptions:
-
-* Python 3 is available
-* `pandas` and `psycopg2` are available
-* A PosgreSQL database is available on localhost
-
----
 
 ## 📚 Project Files:
 
